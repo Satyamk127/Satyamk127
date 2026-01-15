@@ -2,7 +2,7 @@
 
 
 Email Me 👉 ✉️ **satyamkumarkeshari358@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-🔭 I’m currently working on<br>Full-stack and backend projects using Java, Spring Boot, React, and MongoDB.<br><br>👯 I’m looking to collaborate on<br>Open-source and real-world projects related to backend and full-stack development.<br><br>🤝 I’m looking for help with<br>System design, scalable applications, and advanced DSA.<br><br>🌱 I’m currently learning<br>Advanced DSA, backend architecture, and modern web technologies.<br><br>💬 Ask me about<br>Java, DSA, backend development, DBMS, and REST APIs.<br><br>⚡ Fun fact<br>Consistency beats talent — I code daily 🔥
+🔭 I’m currently working on<br> Java development.<br><br>👯 I’m looking to collaborate on<br>Open-source and real-world projects related to adv java development .<br><br>🤝 I’m looking for help with<br>System design, scalable applications, and advanced DSA.<br><br>🌱 I’m currently learning<br>Advanced DSA, backend architecture<br><br>💬 Ask me about<br>Java, DSA, ,JDBC, REACT, HIBERNATE, SPRING  DBMS, and REST APIs.<br><br>⚡ Fun fact<br>Consistency beats talent — I code daily 🔥
 
 
 <!-- Snake Game Repo View -->
