@@ -21,9 +21,61 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&height=30&color=6A5ACD&lines=Java+%7C+DSA+Learner;Problem+Solving+Mindset;Learning+in+Public;One+Commit+at+a+Time" />
 </p>
 
+## 🛠️ Tech Stack & Skills
 
-Email Me 👉 ✉️ **satyamkumarkeshari358@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-🔭 I’m currently working on<br> Java development.<br><br>👯 I’m looking to collaborate on<br>Open-source and real-world projects related to adv java development .<br><br>🤝 I’m looking for help with<br>System design, scalable applications, and advanced DSA.<br><br>🌱 I’m currently learning<br>Advanced DSA, backend architecture<br><br>💬 Ask me about<br>Java, DSA, ,JDBC, REACT, HIBERNATE, SPRING  DBMS, and REST APIs.<br><br>⚡ Fun fact<br>Consistency beats talent — I code daily 🔥
+### 💻 Programming & Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+* **Advanced Java Concepts:**
+  JDBC • Servlets • JSP • Hibernate • Spring Framework • Spring Boot • REST APIs
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+* Building responsive and dynamic UI using modern frameworks
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
+
+---
+
+## 📊 Strengths
+
+* Strong in **Data Structures & Algorithms (Java)**
+* Focus on **Problem Solving & Optimization**
+* Experience in building **Real-world Full Stack Applications**
+* Understanding of **Scalable Backend Systems**
+
+---
 
 
 <!-- Snake Game Repo View -->
