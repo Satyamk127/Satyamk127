@@ -1,4 +1,25 @@
-# 💫 Hi 👋, I'm Satyam keshari
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Satyam%20Keshari&fontAlign=50&fontAlignY=38&fontSize=60&desc=Java%20Developer%20|%20Full%20Stack%20Learner%20|%20DSA%20Enthusiast&descAlignY=62"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
+
+</div>
+
+# Hi 👋, I'm Satyam Keshari
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Satyam+Keshari;Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Full+Stack+Developer+(MERN);Building+Real+Projects"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&height=30&color=6A5ACD&lines=Java+%7C+DSA+Learner;Problem+Solving+Mindset;Learning+in+Public;One+Commit+at+a+Time" />
+</p>
 
 
 Email Me 👉 ✉️ **satyamkumarkeshari358@gmail.com** For Collaboration/Project or Anything Else. 😊😊
